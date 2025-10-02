@@ -1,0 +1,6 @@
+# GitHub Pages configuration
+theme: jekyll-theme-minimal
+title: "Sora Video Downloader"
+description: "Privacy Policy for Sora Video Downloader Chrome Extension"
+show_downloads: false
+repository: [your-github-username]/sora-downloader
